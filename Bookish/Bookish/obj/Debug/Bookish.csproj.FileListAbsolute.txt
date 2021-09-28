@@ -1,0 +1,12 @@
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\bin\Debug\Bookish.exe.config
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\bin\Debug\Bookish.exe
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\bin\Debug\Bookish.pdb
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\bin\Debug\Bookish.DataAccess.dll
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\bin\Debug\Dapper.dll
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\bin\Debug\Bookish.DataAccess.pdb
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\bin\Debug\Dapper.xml
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\obj\Debug\Bookish.csproj.AssemblyReference.cache
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\obj\Debug\Bookish.csproj.CoreCompileInputs.cache
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\obj\Debug\Bookish.csproj.CopyComplete
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\obj\Debug\Bookish.exe
+C:\Bootcamp\Bookish\Bookish\Bookish\Bookish\obj\Debug\Bookish.pdb
